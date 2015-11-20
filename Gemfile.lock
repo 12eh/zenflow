@@ -1,10 +1,10 @@
 PATH
   remote: .
   specs:
-    zenflow (0.8.13)
+    zenflow (0.8.14)
       colored (~> 1.2)
       httparty (~> 0.13.0)
-      terminal-table (~> 1.4.5)
+      terminal-table (~> 1.4)
       thor (~> 0.19.0)
 
 GEM

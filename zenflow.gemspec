@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.executables << "zenflow"
   s.add_dependency "thor", "~> 0.19.0"
   s.add_dependency "colored", "~> 1.2"
-  s.add_dependency "terminal-table", "~> 1.4.5"
+  s.add_dependency "terminal-table", "~> 1.4"
   s.add_dependency "httparty", "~> 0.13.0"
   s.add_development_dependency('rspec', '~> 2.14')
   s.add_development_dependency('simplecov', '~> 0.7.1')
